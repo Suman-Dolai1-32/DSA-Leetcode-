@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
@@ -11,6 +12,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
+| [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -53,11 +56,13 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
