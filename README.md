@@ -49,6 +49,7 @@
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
+| [1572-matrix-diagonal-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
+| [1572-matrix-diagonal-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
