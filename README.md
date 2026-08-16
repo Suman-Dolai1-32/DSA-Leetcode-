@@ -53,6 +53,7 @@
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1572-matrix-diagonal-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
+| [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
+| [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,4 +126,28 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
