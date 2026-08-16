@@ -6,6 +6,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0207-course-schedule) |
+| [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
 | [0743-network-delay-time](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
+| [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
+## Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
+## Binary Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
