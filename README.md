@@ -47,6 +47,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
@@ -113,6 +114,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -156,13 +158,19 @@
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
