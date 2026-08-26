@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
