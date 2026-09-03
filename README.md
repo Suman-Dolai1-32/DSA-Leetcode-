@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
@@ -106,6 +107,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
