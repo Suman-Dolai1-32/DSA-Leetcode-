@@ -66,6 +66,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
