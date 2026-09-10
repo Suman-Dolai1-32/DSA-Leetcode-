@@ -10,6 +10,7 @@
 | [0743-network-delay-time](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,11 +185,13 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
 | ------- |
