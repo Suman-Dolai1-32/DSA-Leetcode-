@@ -67,6 +67,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3903-smallest-stable-index-i) |
@@ -77,6 +78,7 @@
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Enumeration
 |  |
 | ------- |
