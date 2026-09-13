@@ -52,6 +52,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0238-product-of-array-except-self](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
