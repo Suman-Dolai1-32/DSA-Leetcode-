@@ -102,6 +102,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -225,4 +226,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
