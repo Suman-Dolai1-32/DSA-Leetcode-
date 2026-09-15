@@ -47,6 +47,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -136,6 +138,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
@@ -166,6 +169,7 @@
 | ------- |
 | [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
 |  |
 | ------- |
