@@ -104,6 +104,7 @@
 | [0066-plus-one](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -115,6 +116,7 @@
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
@@ -234,4 +237,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
