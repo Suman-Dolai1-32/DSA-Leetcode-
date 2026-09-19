@@ -245,4 +245,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
