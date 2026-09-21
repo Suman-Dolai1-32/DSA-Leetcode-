@@ -71,6 +71,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -107,6 +108,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
+| [3524-find-x-value-of-array-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
@@ -120,6 +122,7 @@
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
