@@ -40,6 +40,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
@@ -47,6 +48,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
