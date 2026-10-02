@@ -51,6 +51,7 @@
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
+| [0541-reverse-string-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0541-reverse-string-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
@@ -153,6 +154,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
+| [0541-reverse-string-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
