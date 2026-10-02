@@ -119,6 +119,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
@@ -144,11 +145,13 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -275,5 +278,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
