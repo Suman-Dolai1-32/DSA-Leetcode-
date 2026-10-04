@@ -125,6 +125,7 @@
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
@@ -155,6 +156,7 @@
 | [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
 | [0541-reverse-string-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
@@ -194,6 +196,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -250,6 +253,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -281,5 +285,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
