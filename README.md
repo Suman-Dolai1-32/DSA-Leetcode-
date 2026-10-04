@@ -64,6 +64,7 @@
 | [0238-product-of-array-except-self](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
@@ -253,6 +255,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Ordered Set
 |  |
 | ------- |
