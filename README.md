@@ -81,6 +81,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1572-matrix-diagonal-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -298,4 +301,8 @@
 | [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
