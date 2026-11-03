@@ -50,6 +50,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0344-reverse-string) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0541-reverse-string-ii) |
