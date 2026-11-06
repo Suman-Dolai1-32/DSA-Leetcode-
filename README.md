@@ -49,6 +49,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
@@ -270,6 +273,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -280,6 +284,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Ordered Set
