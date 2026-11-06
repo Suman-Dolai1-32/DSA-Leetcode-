@@ -73,6 +73,7 @@
 | [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
 | [1572-matrix-diagonal-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3903-smallest-stable-index-i) |
