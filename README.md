@@ -68,6 +68,7 @@
 | [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
