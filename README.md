@@ -76,6 +76,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0778-swim-in-rising-water) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1572-matrix-diagonal-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
@@ -192,6 +193,7 @@
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -205,6 +207,7 @@
 | [0525-contiguous-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/3903-smallest-stable-index-i) |
