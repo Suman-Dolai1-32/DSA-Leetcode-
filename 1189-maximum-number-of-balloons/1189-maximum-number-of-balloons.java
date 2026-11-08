@@ -9,5 +9,6 @@ class Solution {
         int times_o = map.getOrDefault('o',0)/2;
         int times_n = map.getOrDefault('n',0)/1;
         return Math.min(times_b,Math.min(times_a,Math.min(times_l,Math.min(times_o,times_n))));
+
     }
 }
