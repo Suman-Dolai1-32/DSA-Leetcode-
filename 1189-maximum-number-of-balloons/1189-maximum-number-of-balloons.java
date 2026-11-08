@@ -1,13 +1,13 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        HashMap<Character,Integer> map = new HashMap<>();
+        int map[] = new int[26];
         for(char ch : text.toCharArray())
-            map.put(ch,map.getOrDefault(ch,0) + 1);
-        int times_b = map.getOrDefault('b',0)/1;
-        int times_a = map.getOrDefault('a',0)/1;
-        int times_l = map.getOrDefault('l',0)/2;
-        int times_o = map.getOrDefault('o',0)/2;
-        int times_n = map.getOrDefault('n',0)/1;
+            map[ch - 'a']++;
+        int times_b = map['b' - 'a'];
+        int times_a = map['a' - 'a'];
+        int times_l = map['l' - 'a']/2;
+        int times_o = map['o' - 'a']/2;
+        int times_n = map['n' - 'a'];
         return Math.min(times_b,Math.min(times_a,Math.min(times_l,Math.min(times_o,times_n))));
 
     }
