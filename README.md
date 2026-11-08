@@ -182,6 +182,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -198,6 +199,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0652-find-duplicate-subtrees) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
