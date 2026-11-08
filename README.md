@@ -53,6 +53,7 @@
 | [0061-rotate-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0541-reverse-string-ii) |
@@ -176,6 +177,7 @@
 | [0049-group-anagrams](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0344-reverse-string) |
