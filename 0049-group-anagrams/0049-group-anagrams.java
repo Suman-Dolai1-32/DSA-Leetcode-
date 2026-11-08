@@ -11,8 +11,6 @@ class Solution {
                 map.put(key,new ArrayList<>());
             map.get(key).add(st);
         }
-        for(String st : map.keySet())
-            lst.add(map.get(st));
-        return lst;
+        return new ArrayList<>(map.values());
     }
 }
