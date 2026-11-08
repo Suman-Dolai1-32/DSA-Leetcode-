@@ -175,6 +175,7 @@
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0409-longest-palindrome) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -222,6 +224,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
