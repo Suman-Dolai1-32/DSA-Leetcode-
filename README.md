@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
@@ -164,6 +166,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
