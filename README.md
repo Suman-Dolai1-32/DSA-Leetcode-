@@ -70,6 +70,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0456-132-pattern) |
@@ -144,6 +145,7 @@
 | [0042-trapping-rain-water](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Suman-Dolai1-32/DSA-Leetcode-/tree/master/0518-coin-change-ii) |
